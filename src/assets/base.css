@@ -1,0 +1,13 @@
+.base{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+#detail{
+    width: 97%;
+    height: 94%;
+}
